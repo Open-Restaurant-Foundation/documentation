@@ -11,6 +11,7 @@ To learn what local restaurants' experiences have been with third party food del
   - Would you like to be anonymous?
 - Which (if any) services do you use and why?
   - If none, why?
+  - If some, when did you start using them and why?
 - What benefits have they provided?
 - What detriments have they provided?
 - What would you change about the platforms and why?
